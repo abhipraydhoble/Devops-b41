@@ -12,6 +12,7 @@
 - go to AWS System Manager Service
 - create ssm parameter
 - dont forget to change aws:InstnceID
+  
 **Enter this Value for the SSM Parameter**
 
 ````
