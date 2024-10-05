@@ -11,7 +11,7 @@
 • Click on permission and use two policies: AWSLambdaBasicExecutionRole (allow to use cloudwatch) and AmazonEC2Full Access. 
 
    - Note: You can create your policies, or you can select existing policies
-   - 
+ 
 • Provide a tag.
 
 • Provide Role name and role description. 
