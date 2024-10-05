@@ -3,12 +3,15 @@
 ### Step 1: Create one Linux instance. 
 ### Step 2: Open the IAM service and create a role to access lambda services. 
 **Steps:**
+
 • Select AWS services 
 
 • Choose lambda use case. 
 
 • Click on permission and use two policies: AWSLambdaBasicExecutionRole (allow to use cloudwatch) and AmazonEC2Full Access. 
- Note: You can create your policies, or you can select existing policies 
+
+   - Note: You can create your policies, or you can select existing policies
+   - 
 • Provide a tag.
 
 • Provide Role name and role description. 
@@ -16,6 +19,7 @@
 ### Step 3: Open Lambda services and create a new lambda function. 
 
 **Steps:**
+
 • Provide function name. 
 
 • Use Python as a runtime environment. 
