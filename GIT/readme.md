@@ -112,5 +112,36 @@ git checkout main
 git merge test
 ````
 
+#### Apply commits of one branch to other
+````
+git rebase <branchname>
+````
+#### Cherry-Pick: Apply single commmit from one branch to other
+````
+git log --oneline    #copy commmit id
+git checkout <branchname>
+git cherry-pick <commmit-id>
+````
+
+#### Pull: merge remote changes to local repo
+````
+git pull https://github.com/abhipraydhoble/devops-b41.git
+````
+
+#### Fetch : Update changes from remote to local
+````
+git fetch https://github.com/abhipraydhoble/devops-b41.git
+````
+#### Stash: save work
+````
+git add <filename>
+git stash
+git stash list
+git stash apply
+````
+#### Restore: staging to working dir
+````
+git restore --staged <filename>
+````
 
 
