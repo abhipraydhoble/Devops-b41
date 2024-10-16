@@ -1,0 +1,15 @@
+cloudwatch logs:
+->create role having clouwatchlogsfullaccess
+->launch instance
+->attach role
+->install awslogs package 
+  #sudo yum install awslogs -y
+->edit file /etc/awslogs/awslogs.conf
+->note:change default region: us-east-1
+->systemctl start awslogsd
+->cat /var/log/awslogs.log    --errror file
+
+->go to logs in cloudwatch
+---
+Cloudtrail:
+track user activity and api usage
