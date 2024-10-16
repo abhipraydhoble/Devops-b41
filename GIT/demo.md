@@ -1,7 +1,7 @@
 # $${\color {red} \textbf {DevOps Batch B41}}$$
 
 ## SDLC: 
-Software development life ***cycle***
+$${\color {blue} \textbf {Software development life cycle}}$$
 
 **Methodolgies**
 - Waterfall
