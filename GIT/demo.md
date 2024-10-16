@@ -1,4 +1,4 @@
-# ${\color {red} {DevOps Batch B41}}$
+# $${\color {red} \textbf {DevOps Batch B41}}$$
 
 ## SDLC: 
 Software development life ***cycle***
