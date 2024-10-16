@@ -11,3 +11,4 @@ Software development life ***cycle***
 ````
 yum install nginx -y
 ````
+![image](https://github.com/user-attachments/assets/58122738-c90c-4f4e-a400-90b0c291fa0e)
