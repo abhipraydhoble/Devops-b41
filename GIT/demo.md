@@ -7,3 +7,7 @@ Software development life ***cycle***
 - Waterfall
 - Agile
 - DevOps
+
+````
+yum install nginx -y
+````
