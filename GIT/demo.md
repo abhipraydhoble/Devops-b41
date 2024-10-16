@@ -1,7 +1,9 @@
 # DevOps Batch B41
 
-## Batch Timing: 12:30
+## SDLC: 
+Software development life ***cycle***
 
-### Attendance
-
-#### vikalp
+**Methodolgies**
+- Waterfall
+- Agile
+- DevOps
